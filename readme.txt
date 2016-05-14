@@ -1,4 +1,6 @@
-git --global config
+git --global user.name user.email
 yonggangzou
 yonggangzou@163.com
+
+test
 
